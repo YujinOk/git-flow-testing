@@ -12,7 +12,7 @@ I want you to do 3 main things:
 <br>
 <br>
 
-Detailed steps or Hints (Read this if you get stuck)
+## Detailed steps/hints (Read this if you get stuck)
 1. Clone this repo
 2. Create a new branch for the repo and title it with your name
 3. Use "git checkout (branch name)" to move into that branch
