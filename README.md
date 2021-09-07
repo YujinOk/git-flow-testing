@@ -10,14 +10,16 @@ I want you to do 3 main things:
 <br>
 <br>
 <br>
-<br>
+<br>  
+
+Once you're done with this activity, you can also check out this [site](https://learngitbranching.js.org) which can help you practice git branching and git in general
 
 ## Detailed steps/hints (Read this if you get stuck)
 1. Clone this repo
 2. Create a new branch for the repo and title it with your name
 3. Use "git checkout (branch name)" to move into that branch
 4. In the new branch, edit the test.js file
-5. In that test.js file add a line storing your name in a variable (e.g. ``const name = "Chris"``) [Make sure you add this in line 2]
+5. In that test.js file add a line storing your name in a variable (e.g. ``const name = "Chris"``)
 6. Do the whole: add, commit and push workflow 
 7. (NOTE: the push might not work the first you try it in a new branch, if so use the "git push -u" command that the console tells you to use and then try to push)
 8. Once the push goes through, go into github and go into the 'pull requests' tab
